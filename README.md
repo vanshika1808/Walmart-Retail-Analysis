@@ -3,9 +3,6 @@
 This project contains SQL-based analysis of Walmart sales data.  
 The queries uncover business insights related to customer segmentation, product performance, and sales trends.  
 
-## Objective  
-To analyze Walmart’s retail dataset using SQL and extract meaningful business insights that can support decision-making in sales, marketing, and customer retention.  
-
 ## Key Tasks Performed  
 
 1. **Top Branch by Sales Growth Rate**  
